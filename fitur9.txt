@@ -1,3 +1,4 @@
 latih secara bertahap component
 latih secara bertahap directive
 latih reactive form
+angular animation
