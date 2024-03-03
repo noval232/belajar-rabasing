@@ -1,2 +1,3 @@
 latih secara bertahap component
 latih secara bertahap directive
+angular animation
